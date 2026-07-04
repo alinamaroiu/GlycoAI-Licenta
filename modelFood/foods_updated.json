@@ -1,0 +1,2382 @@
+{
+    "baby back ribs": {
+        "name": "Baby Back Ribs",
+        "name_ro": "Baby Back Ribs",
+        "gi": 50,
+        "carbs_per_100g": 12.13,
+        "calories": 170
+    },
+    "baklava": {
+        "name": "Baklava",
+        "name_ro": "Baklava",
+        "gi": 60,
+        "carbs_per_100g": 37.55,
+        "calories": 430
+    },
+    "beef carpaccio": {
+        "name": "Beef Carpaccio",
+        "name_ro": "Beef Carpaccio",
+        "gi": 50,
+        "carbs_per_100g": 10.0,
+        "calories": 600
+    },
+    "beef tartare": {
+        "name": "Beef Tartare",
+        "name_ro": "Beef Tartare",
+        "gi": 50,
+        "carbs_per_100g": 0.34,
+        "calories": 216
+    },
+    "beet salad": {
+        "name": "Beet Salad",
+        "name_ro": "Beet Salad",
+        "gi": 15,
+        "carbs_per_100g": 16.28,
+        "calories": 93.0
+    },
+    "beignets": {
+        "name": "Beignets",
+        "name_ro": "Beignets",
+        "gi": 76,
+        "carbs_per_100g": 53.69,
+        "calories": 390
+    },
+    "bibimbap": {
+        "name": "Bibimbap",
+        "name_ro": "Bibimbap",
+        "gi": 65,
+        "carbs_per_100g": 8.11,
+        "calories": 130
+    },
+    "bread pudding": {
+        "name": "Bread Pudding",
+        "name_ro": "Bread Pudding",
+        "gi": 70,
+        "carbs_per_100g": 28,
+        "calories": 222
+    },
+    "breakfast burrito": {
+        "name": "Breakfast Burrito",
+        "name_ro": "Breakfast Burrito",
+        "gi": 58,
+        "carbs_per_100g": 23.87,
+        "calories": 198
+    },
+    "bruschetta": {
+        "name": "Bruschetta",
+        "name_ro": "Bruschetta",
+        "gi": 55,
+        "carbs_per_100g": 21.32,
+        "calories": 180
+    },
+    "caesar salad": {
+        "name": "Caesar Salad",
+        "name_ro": "Caesar Salad",
+        "gi": 15,
+        "carbs_per_100g": 5.9,
+        "calories": 189
+    },
+    "cannoli": {
+        "name": "Cannoli",
+        "name_ro": "Cannoli",
+        "gi": 50,
+        "carbs_per_100g": 35.06,
+        "calories": 300
+    },
+    "caprese salad": {
+        "name": "Caprese Salad",
+        "name_ro": "Caprese Salad",
+        "gi": 15,
+        "carbs_per_100g": 5.9,
+        "calories": 152
+    },
+    "carrot cake": {
+        "name": "Carrot Cake",
+        "name_ro": "Carrot Cake",
+        "gi": 39,
+        "carbs_per_100g": 61.6,
+        "calories": 424
+    },
+    "ceviche": {
+        "name": "Ceviche",
+        "name_ro": "Ceviche",
+        "gi": 50,
+        "carbs_per_100g": 3.58,
+        "calories": 0
+    },
+    "cheese plate": {
+        "name": "Cheese Plate",
+        "name_ro": "Cheese Plate",
+        "gi": 50,
+        "carbs_per_100g": 8.85,
+        "calories": 192
+    },
+    "cheesecake": {
+        "name": "Cheesecake",
+        "name_ro": "Cheesecake",
+        "gi": 55,
+        "carbs_per_100g": 35.52,
+        "calories": 320
+    },
+    "chicken quesadilla": {
+        "name": "Chicken Quesadilla",
+        "name_ro": "Chicken Quesadilla",
+        "gi": 50,
+        "carbs_per_100g": 27.32,
+        "calories": 239
+    },
+    "chicken wings": {
+        "name": "Chicken Wings",
+        "name_ro": "Chicken Wings",
+        "gi": 50,
+        "carbs_per_100g": 0.0,
+        "calories": 196
+    },
+    "churros": {
+        "name": "Churros",
+        "name_ro": "Churros",
+        "gi": 72,
+        "carbs_per_100g": 48.87,
+        "calories": 419
+    },
+    "clam chowder": {
+        "name": "Clam Chowder",
+        "name_ro": "Clam Chowder",
+        "gi": 40,
+        "carbs_per_100g": 5.26,
+        "calories": 118
+    },
+    "club sandwich": {
+        "name": "Club Sandwich",
+        "name_ro": "Club Sandwich",
+        "gi": 55,
+        "carbs_per_100g": 58.38,
+        "calories": 220
+    },
+    "crab cakes": {
+        "name": "Crab Cakes",
+        "name_ro": "Crab Cakes",
+        "gi": 65,
+        "carbs_per_100g": 7.08,
+        "calories": 239
+    },
+    "creme brulee": {
+        "name": "Creme Brulee",
+        "name_ro": "Creme Brulee",
+        "gi": 35,
+        "carbs_per_100g": 10.97,
+        "calories": 113
+    },
+    "croque madame": {
+        "name": "Croque Madame",
+        "name_ro": "Croque Madame",
+        "gi": 70,
+        "carbs_per_100g": 58.38,
+        "calories": 375
+    },
+    "cup cakes": {
+        "name": "Cup Cakes",
+        "name_ro": "Cup Cakes",
+        "gi": 65,
+        "carbs_per_100g": 52.52,
+        "calories": 356
+    },
+    "deviled eggs": {
+        "name": "Deviled Eggs",
+        "name_ro": "Deviled Eggs",
+        "gi": 50,
+        "carbs_per_100g": 2.36,
+        "calories": 286
+    },
+    "donuts": {
+        "name": "Donuts",
+        "name_ro": "Donuts",
+        "gi": 76,
+        "carbs_per_100g": 11.38,
+        "calories": 0
+    },
+    "dumplings": {
+        "name": "Dumplings",
+        "name_ro": "Dumplings",
+        "gi": 60,
+        "carbs_per_100g": 20.49,
+        "calories": 125
+    },
+    "edamame": {
+        "name": "Edamame",
+        "name_ro": "Edamame",
+        "gi": 35,
+        "carbs_per_100g": 8.63,
+        "calories": 120
+    },
+    "eggs benedict": {
+        "name": "Eggs Benedict",
+        "name_ro": "Eggs Benedict",
+        "gi": 50,
+        "carbs_per_100g": 2.36,
+        "calories": 288
+    },
+    "escargots": {
+        "name": "Escargots",
+        "name_ro": "Escargots",
+        "gi": 50,
+        "carbs_per_100g": 2.48,
+        "calories": 90
+    },
+    "falafel": {
+        "name": "Falafel",
+        "name_ro": "Falafel",
+        "gi": 55,
+        "carbs_per_100g": 28.96,
+        "calories": 333
+    },
+    "filet mignon": {
+        "name": "Filet Mignon",
+        "name_ro": "Filet Mignon",
+        "gi": 50,
+        "carbs_per_100g": 0.0,
+        "calories": 196
+    },
+    "fish and chips": {
+        "name": "Fish And Chips",
+        "name_ro": "Fish And Chips",
+        "gi": 50,
+        "carbs_per_100g": 11.72,
+        "calories": 277
+    },
+    "foie gras": {
+        "name": "Foie Gras",
+        "name_ro": "Foie Gras",
+        "gi": 35,
+        "carbs_per_100g": 6.55,
+        "calories": 357
+    },
+    "french fries": {
+        "name": "French Fries",
+        "name_ro": "French Fries",
+        "gi": 75,
+        "carbs_per_100g": 18.5,
+        "calories": 179
+    },
+    "french onion soup": {
+        "name": "French Onion Soup",
+        "name_ro": "French Onion Soup",
+        "gi": 38,
+        "carbs_per_100g": 11.84,
+        "calories": 70.0
+    },
+    "french toast": {
+        "name": "French Toast",
+        "name_ro": "French Toast",
+        "gi": 70,
+        "carbs_per_100g": 76.6,
+        "calories": 175
+    },
+    "fried calamari": {
+        "name": "Fried Calamari",
+        "name_ro": "Fried Calamari",
+        "gi": 55,
+        "carbs_per_100g": 29.31,
+        "calories": 234
+    },
+    "fried rice": {
+        "name": "Fried Rice",
+        "name_ro": "Fried Rice",
+        "gi": 73,
+        "carbs_per_100g": 17.25,
+        "calories": 183
+    },
+    "frozen yogurt": {
+        "name": "Frozen Yogurt",
+        "name_ro": "Frozen Yogurt",
+        "gi": 41,
+        "carbs_per_100g": 13.68,
+        "calories": 177
+    },
+    "garlic bread": {
+        "name": "Garlic Bread",
+        "name_ro": "Garlic Bread",
+        "gi": 70,
+        "carbs_per_100g": 47.34,
+        "calories": 246
+    },
+    "gnocchi": {
+        "name": "Gnocchi",
+        "name_ro": "Gnocchi",
+        "gi": 68,
+        "carbs_per_100g": 9.38,
+        "calories": 130
+    },
+    "greek salad": {
+        "name": "Greek Salad",
+        "name_ro": "Greek Salad",
+        "gi": 15,
+        "carbs_per_100g": 5.9,
+        "calories": 66.0
+    },
+    "grilled cheese sandwich": {
+        "name": "Grilled Cheese Sandwich",
+        "name_ro": "Grilled Cheese Sandwich",
+        "gi": 50,
+        "carbs_per_100g": 31.89,
+        "calories": 288
+    },
+    "grilled salmon": {
+        "name": "Grilled Salmon",
+        "name_ro": "Grilled Salmon",
+        "gi": 50,
+        "carbs_per_100g": 3.31,
+        "calories": 103
+    },
+    "guacamole": {
+        "name": "Guacamole",
+        "name_ro": "Guacamole",
+        "gi": 15,
+        "carbs_per_100g": 8.45,
+        "calories": 160
+    },
+    "hamburger": {
+        "name": "Hamburger",
+        "name_ro": "Hamburger",
+        "gi": 66,
+        "carbs_per_100g": 29.57,
+        "calories": 295
+    },
+    "hot and sour soup": {
+        "name": "Hot And Sour Soup",
+        "name_ro": "Hot And Sour Soup",
+        "gi": 38,
+        "carbs_per_100g": 3.9,
+        "calories": 39
+    },
+    "hot dog": {
+        "name": "Hot Dog",
+        "name_ro": "Hot Dog",
+        "gi": 50,
+        "carbs_per_100g": 2.89,
+        "calories": 211
+    },
+    "huevos rancheros": {
+        "name": "Huevos Rancheros",
+        "name_ro": "Huevos Rancheros",
+        "gi": 50,
+        "carbs_per_100g": 2.36,
+        "calories": 121
+    },
+    "hummus": {
+        "name": "Hummus",
+        "name_ro": "Hummus",
+        "gi": 6,
+        "carbs_per_100g": 14.9,
+        "calories": 166
+    },
+    "lasagna": {
+        "name": "Lasagna",
+        "name_ro": "Lasagna",
+        "gi": 47,
+        "carbs_per_100g": 16.17,
+        "calories": 135
+    },
+    "lobster bisque": {
+        "name": "Lobster Bisque",
+        "name_ro": "Lobster Bisque",
+        "gi": 50,
+        "carbs_per_100g": 5.9,
+        "calories": 147
+    },
+    "lobster roll sandwich": {
+        "name": "Lobster Roll Sandwich",
+        "name_ro": "Lobster Roll Sandwich",
+        "gi": 50,
+        "carbs_per_100g": 0,
+        "calories": 97
+    },
+    "macaroni and cheese": {
+        "name": "Macaroni And Cheese",
+        "name_ro": "Macaroni And Cheese",
+        "gi": 50,
+        "carbs_per_100g": 23.08,
+        "calories": 102
+    },
+    "mussels": {
+        "name": "Mussels",
+        "name_ro": "Mussels",
+        "gi": 50,
+        "carbs_per_100g": 4.67,
+        "calories": 86
+    },
+    "nachos": {
+        "name": "Nachos",
+        "name_ro": "Nachos",
+        "gi": 63,
+        "carbs_per_100g": 19.87,
+        "calories": 300
+    },
+    "oysters": {
+        "name": "Oysters",
+        "name_ro": "Oysters",
+        "gi": 50,
+        "carbs_per_100g": 18.4,
+        "calories": 68
+    },
+    "pad thai": {
+        "name": "Pad Thai",
+        "name_ro": "Pad Thai",
+        "gi": 55,
+        "carbs_per_100g": 25.01,
+        "calories": 155
+    },
+    "paella": {
+        "name": "Paella",
+        "name_ro": "Paella",
+        "gi": 55,
+        "carbs_per_100g": 16.44,
+        "calories": 180
+    },
+    "pancakes": {
+        "name": "Pancakes",
+        "name_ro": "Pancakes",
+        "gi": 67,
+        "carbs_per_100g": 45.38,
+        "calories": 227
+    },
+    "peking duck": {
+        "name": "Peking Duck",
+        "name_ro": "Peking Duck",
+        "gi": 50,
+        "carbs_per_100g": 60.66,
+        "calories": 154
+    },
+    "pho": {
+        "name": "Pho",
+        "name_ro": "Pho",
+        "gi": 70,
+        "carbs_per_100g": 5.6,
+        "calories": 90
+    },
+    "pizza": {
+        "name": "Pizza",
+        "name_ro": "Pizza",
+        "gi": 60,
+        "carbs_per_100g": 32.38,
+        "calories": 266
+    },
+    "prime rib": {
+        "name": "Prime Rib",
+        "name_ro": "Prime Rib",
+        "gi": 35,
+        "carbs_per_100g": 12.13,
+        "calories": 0.0
+    },
+    "pulled pork sandwich": {
+        "name": "Pulled Pork Sandwich",
+        "name_ro": "Pulled Pork Sandwich",
+        "gi": 50,
+        "carbs_per_100g": 25.45,
+        "calories": 168
+    },
+    "ramen": {
+        "name": "Ramen",
+        "name_ro": "Ramen",
+        "gi": 73,
+        "carbs_per_100g": 15.4,
+        "calories": 188
+    },
+    "ravioli": {
+        "name": "Ravioli",
+        "name_ro": "Ravioli",
+        "gi": 50,
+        "carbs_per_100g": 21.73,
+        "calories": 220
+    },
+    "red velvet cake": {
+        "name": "Red Velvet Cake",
+        "name_ro": "Red Velvet Cake",
+        "gi": 65,
+        "carbs_per_100g": 60.31,
+        "calories": 312
+    },
+    "risotto": {
+        "name": "Risotto",
+        "name_ro": "Risotto",
+        "gi": 69,
+        "carbs_per_100g": 20.01,
+        "calories": 166
+    },
+    "samosa": {
+        "name": "Samosa",
+        "name_ro": "Samosa",
+        "gi": 82,
+        "carbs_per_100g": 33.16,
+        "calories": 262
+    },
+    "sashimi": {
+        "name": "Sashimi",
+        "name_ro": "Sashimi",
+        "gi": 50,
+        "carbs_per_100g": 0,
+        "calories": 130
+    },
+    "scallops": {
+        "name": "Scallops",
+        "name_ro": "Scallops",
+        "gi": 50,
+        "carbs_per_100g": 14.14,
+        "calories": 111
+    },
+    "seaweed salad": {
+        "name": "Seaweed Salad",
+        "name_ro": "Seaweed Salad",
+        "gi": 15,
+        "carbs_per_100g": 52.39,
+        "calories": 125
+    },
+    "shrimp and grits": {
+        "name": "Shrimp And Grits",
+        "name_ro": "Shrimp And Grits",
+        "gi": 50,
+        "carbs_per_100g": 7.92,
+        "calories": 126
+    },
+    "spaghetti bolognese": {
+        "name": "Spaghetti Bolognese",
+        "name_ro": "Spaghetti Bolognese",
+        "gi": 50,
+        "carbs_per_100g": 6.54,
+        "calories": 112
+    },
+    "spaghetti carbonara": {
+        "name": "Spaghetti Carbonara",
+        "name_ro": "Spaghetti Carbonara",
+        "gi": 50,
+        "carbs_per_100g": 8.05,
+        "calories": 400
+    },
+    "spring rolls": {
+        "name": "Spring Rolls",
+        "name_ro": "Spring Rolls",
+        "gi": 70,
+        "carbs_per_100g": 30.02,
+        "calories": 135
+    },
+    "steak": {
+        "name": "Steak",
+        "name_ro": "Steak",
+        "gi": 50,
+        "carbs_per_100g": 4.34,
+        "calories": 271
+    },
+    "strawberry shortcake": {
+        "name": "Strawberry Shortcake",
+        "name_ro": "Strawberry Shortcake",
+        "gi": 40,
+        "carbs_per_100g": 61.6,
+        "calories": 274
+    },
+    "sushi": {
+        "name": "Sushi",
+        "name_ro": "Sushi",
+        "gi": 55,
+        "carbs_per_100g": 18.39,
+        "calories": 143
+    },
+    "tacos": {
+        "name": "Tacos",
+        "name_ro": "Tacos",
+        "gi": 55,
+        "carbs_per_100g": 0.72,
+        "calories": 226
+    },
+    "tiramisu": {
+        "name": "Tiramisu",
+        "name_ro": "Tiramisu",
+        "gi": 45,
+        "carbs_per_100g": 29.44,
+        "calories": 240
+    },
+    "tuna tartare": {
+        "name": "Tuna Tartare",
+        "name_ro": "Tuna Tartare",
+        "gi": 50,
+        "carbs_per_100g": 0.34,
+        "calories": 216
+    },
+    "waffles": {
+        "name": "Waffles",
+        "name_ro": "Waffles",
+        "gi": 76,
+        "carbs_per_100g": 48.64,
+        "calories": 291
+    },
+    "sarmale": {
+        "name": "Sarmale",
+        "name_ro": "Sarmale",
+        "gi": 35,
+        "carbs_per_100g": 8.83,
+        "calories": 114
+    },
+    "mici": {
+        "name": "Mici",
+        "name_ro": "Mici",
+        "gi": 50,
+        "carbs_per_100g": 2.13,
+        "calories": 290
+    },
+    "mamaliga": {
+        "name": "Mamaliga",
+        "name_ro": "Mămăligă",
+        "gi": 35,
+        "carbs_per_100g": 12.25,
+        "calories": 83
+    },
+    "cozonac": {
+        "name": "Cozonac",
+        "name_ro": "Cozonac",
+        "gi": 70,
+        "carbs_per_100g": 45.38,
+        "calories": 350
+    },
+    "salata boeuf": {
+        "name": "Salata Boeuf",
+        "name_ro": "Salată de boeuf",
+        "gi": 55,
+        "carbs_per_100g": 17.32,
+        "calories": 150
+    },
+    "apple pie": {
+        "name": "Apple Pie",
+        "name_ro": "Apple Pie",
+        "gi": 50,
+        "carbs_per_100g": 54.0,
+        "calories": 354
+    },
+    "chicken curry": {
+        "name": "Chicken Curry",
+        "name_ro": "Chicken Curry",
+        "gi": 50,
+        "carbs_per_100g": 6.54,
+        "calories": 107
+    },
+    "chocolate cake": {
+        "name": "Chocolate Cake",
+        "name_ro": "Chocolate Cake",
+        "gi": 50,
+        "carbs_per_100g": 57.6,
+        "calories": 439
+    },
+    "chocolate mousse": {
+        "name": "Chocolate Mousse",
+        "name_ro": "Chocolate Mousse",
+        "gi": 50,
+        "carbs_per_100g": 19.0,
+        "calories": 269
+    },
+    "gyoza": {
+        "name": "Gyoza",
+        "name_ro": "Gyoza",
+        "gi": 50,
+        "carbs_per_100g": 33.3,
+        "calories": 133
+    },
+    "ice cream": {
+        "name": "Ice Cream",
+        "name_ro": "Ice Cream",
+        "gi": 50,
+        "carbs_per_100g": 24.6,
+        "calories": 200
+    },
+    "macarons": {
+        "name": "Macarons",
+        "name_ro": "Macarons",
+        "gi": 50,
+        "carbs_per_100g": 53.3,
+        "calories": 467
+    },
+    "miso soup": {
+        "name": "Miso Soup",
+        "name_ro": "Miso Soup",
+        "gi": 50,
+        "carbs_per_100g": 2.08,
+        "calories": 26.0
+    },
+    "omelette": {
+        "name": "Omelette",
+        "name_ro": "Omelette",
+        "gi": 50,
+        "carbs_per_100g": 11.2,
+        "calories": 56.0
+    },
+    "onion rings": {
+        "name": "Onion Rings",
+        "name_ro": "Onion Rings",
+        "gi": 50,
+        "carbs_per_100g": 28.2,
+        "calories": 235
+    },
+    "panna cotta": {
+        "name": "Panna Cotta",
+        "name_ro": "Panna Cotta",
+        "gi": 50,
+        "carbs_per_100g": 30.0,
+        "calories": 220
+    },
+    "pork chop": {
+        "name": "Pork Chop",
+        "name_ro": "Pork Chop",
+        "gi": 50,
+        "carbs_per_100g": 7.82,
+        "calories": 190
+    },
+    "poutine": {
+        "name": "Poutine",
+        "name_ro": "Poutine",
+        "gi": 50,
+        "carbs_per_100g": 69.0,
+        "calories": 379
+    },
+    "rice": {
+        "name": "Rice",
+        "name_ro": "Rice",
+        "gi": 50,
+        "carbs_per_100g": 26.4,
+        "calories": 139
+    },
+    "tempura bowl": {
+        "name": "Tempura Bowl",
+        "name_ro": "Tempura Bowl",
+        "gi": 50,
+        "carbs_per_100g": 20.45,
+        "calories": 239
+    },
+    "goya chanpuru": {
+        "name": "Goya Chanpuru",
+        "name_ro": "Goya Chanpuru",
+        "gi": 50,
+        "carbs_per_100g": 64.4,
+        "calories": 433
+    },
+    "green curry": {
+        "name": "Green Curry",
+        "name_ro": "Green Curry",
+        "gi": 50,
+        "carbs_per_100g": 15.8,
+        "calories": 158
+    },
+    "okinawa soba": {
+        "name": "Okinawa Soba",
+        "name_ro": "Okinawa Soba",
+        "gi": 50,
+        "carbs_per_100g": 21.4,
+        "calories": 99.0
+    },
+    "mango pudding": {
+        "name": "Mango Pudding",
+        "name_ro": "Mango Pudding",
+        "gi": 50,
+        "carbs_per_100g": 28,
+        "calories": 160
+    },
+    "almond jelly": {
+        "name": "Almond Jelly",
+        "name_ro": "Almond Jelly",
+        "gi": 50,
+        "carbs_per_100g": 44.88,
+        "calories": 374
+    },
+    "dak galbi": {
+        "name": "Dak Galbi",
+        "name_ro": "Dak Galbi",
+        "gi": 50,
+        "carbs_per_100g": 66.7,
+        "calories": 333
+    },
+    "dry curry": {
+        "name": "Dry Curry",
+        "name_ro": "Dry Curry",
+        "gi": 50,
+        "carbs_per_100g": 6.53,
+        "calories": 113
+    },
+    "rice vermicelli": {
+        "name": "Rice Vermicelli",
+        "name_ro": "Rice Vermicelli",
+        "gi": 50,
+        "carbs_per_100g": 83.6,
+        "calories": 382
+    },
+    "yellow curry": {
+        "name": "Yellow Curry",
+        "name_ro": "Yellow Curry",
+        "gi": 50,
+        "carbs_per_100g": 6.53,
+        "calories": 113
+    },
+    "pancake": {
+        "name": "Pancake",
+        "name_ro": "Pancake",
+        "gi": 50,
+        "carbs_per_100g": 45.38,
+        "calories": 207
+    },
+    "champon": {
+        "name": "Champon",
+        "name_ro": "Champon",
+        "gi": 50,
+        "carbs_per_100g": 27.2,
+        "calories": 201
+    },
+    "crape": {
+        "name": "Crape",
+        "name_ro": "Crape",
+        "gi": 50,
+        "carbs_per_100g": 24.7,
+        "calories": 188
+    },
+    "waffle": {
+        "name": "Waffle",
+        "name_ro": "Waffle",
+        "gi": 50,
+        "carbs_per_100g": 60.0,
+        "calories": 544
+    },
+    "rare cheese cake": {
+        "name": "Rare Cheese Cake",
+        "name_ro": "Rare Cheese Cake",
+        "gi": 50,
+        "carbs_per_100g": 44.3,
+        "calories": 339
+    },
+    "toast": {
+        "name": "Toast",
+        "name_ro": "Toast",
+        "gi": 50,
+        "carbs_per_100g": 76.6,
+        "calories": 390
+    },
+    "shortcake": {
+        "name": "Shortcake",
+        "name_ro": "Shortcake",
+        "gi": 50,
+        "carbs_per_100g": 29.9,
+        "calories": 273
+    },
+    "chop suey": {
+        "name": "Chop Suey",
+        "name_ro": "Chop Suey",
+        "gi": 50,
+        "carbs_per_100g": 5.74,
+        "calories": 43
+    },
+    "twice cooked pork": {
+        "name": "Twice Cooked Pork",
+        "name_ro": "Twice Cooked Pork",
+        "gi": 50,
+        "carbs_per_100g": 2.85,
+        "calories": 333
+    },
+    "mushroom risotto": {
+        "name": "Mushroom Risotto",
+        "name_ro": "Mushroom Risotto",
+        "gi": 50,
+        "carbs_per_100g": 73.3,
+        "calories": 356
+    },
+    "fine white noodles": {
+        "name": "Fine White Noodles",
+        "name_ro": "Fine White Noodles",
+        "gi": 50,
+        "carbs_per_100g": 15.02,
+        "calories": 140
+    },
+    "minestrone": {
+        "name": "Minestrone",
+        "name_ro": "Minestrone",
+        "gi": 50,
+        "carbs_per_100g": 7.3,
+        "calories": 40
+    },
+    "pot au feu": {
+        "name": "Pot Au Feu",
+        "name_ro": "Pot Au Feu",
+        "gi": 50,
+        "carbs_per_100g": 2.5,
+        "calories": 16.0
+    },
+    "croissant": {
+        "name": "Croissant",
+        "name_ro": "Croissant",
+        "gi": 50,
+        "carbs_per_100g": 45.8,
+        "calories": 406
+    },
+    "chicken nugget": {
+        "name": "Chicken Nugget",
+        "name_ro": "Chicken Nugget",
+        "gi": 50,
+        "carbs_per_100g": 14.93,
+        "calories": 307
+    },
+    "french bread": {
+        "name": "French Bread",
+        "name_ro": "French Bread",
+        "gi": 50,
+        "carbs_per_100g": 42.9,
+        "calories": 214
+    },
+    "rice gruel": {
+        "name": "Rice Gruel",
+        "name_ro": "Rice Gruel",
+        "gi": 50,
+        "carbs_per_100g": 17.25,
+        "calories": 112
+    },
+    "broiled eel bowl": {
+        "name": "Broiled Eel Bowl",
+        "name_ro": "Broiled Eel Bowl",
+        "gi": 50,
+        "carbs_per_100g": 7.79,
+        "calories": 273
+    },
+    "clear soup": {
+        "name": "Clear Soup",
+        "name_ro": "Clear Soup",
+        "gi": 50,
+        "carbs_per_100g": 66.7,
+        "calories": 278
+    },
+    "inarizushi": {
+        "name": "Inarizushi",
+        "name_ro": "Inarizushi",
+        "gi": 50,
+        "carbs_per_100g": 20.4,
+        "calories": 227
+    },
+    "pork loin cutlet": {
+        "name": "Pork Loin Cutlet",
+        "name_ro": "Pork Loin Cutlet",
+        "gi": 50,
+        "carbs_per_100g": 0.0,
+        "calories": 0
+    },
+    "roll bread": {
+        "name": "Roll Bread",
+        "name_ro": "Roll Bread",
+        "gi": 50,
+        "carbs_per_100g": 47.8,
+        "calories": 287
+    },
+    "pork fillet cutlet": {
+        "name": "Pork Fillet Cutlet",
+        "name_ro": "Pork Fillet Cutlet",
+        "gi": 50,
+        "carbs_per_100g": 9.0,
+        "calories": 290
+    },
+    "chicken cutlet": {
+        "name": "Chicken Cutlet",
+        "name_ro": "Chicken Cutlet",
+        "gi": 50,
+        "carbs_per_100g": 0.0,
+        "calories": 107
+    },
+    "ham cutlet": {
+        "name": "Ham Cutlet",
+        "name_ro": "Ham Cutlet",
+        "gi": 50,
+        "carbs_per_100g": 1.58,
+        "calories": 117
+    },
+    "minced meat cutlet": {
+        "name": "Minced Meat Cutlet",
+        "name_ro": "Minced Meat Cutlet",
+        "gi": 50,
+        "carbs_per_100g": 1.84,
+        "calories": 263
+    },
+    "thinly sliced raw horsemeat": {
+        "name": "Thinly Sliced Raw Horsemeat",
+        "name_ro": "Thinly Sliced Raw Horsemeat",
+        "gi": 50,
+        "carbs_per_100g": 0.0,
+        "calories": 309
+    },
+    "bagel": {
+        "name": "Bagel",
+        "name_ro": "Bagel",
+        "gi": 50,
+        "carbs_per_100g": 52.38,
+        "calories": 264
+    },
+    "scone": {
+        "name": "Scone",
+        "name_ro": "Scone",
+        "gi": 50,
+        "carbs_per_100g": 48.07,
+        "calories": 382
+    },
+    "tortilla": {
+        "name": "Tortilla",
+        "name_ro": "Tortilla",
+        "gi": 50,
+        "carbs_per_100g": 44.7,
+        "calories": 211
+    },
+    "raisin bread": {
+        "name": "Raisin Bread",
+        "name_ro": "Raisin Bread",
+        "gi": 50,
+        "carbs_per_100g": 68.8,
+        "calories": 269
+    },
+    "meat loaf": {
+        "name": "Meat Loaf",
+        "name_ro": "Meat Loaf",
+        "gi": 50,
+        "carbs_per_100g": 7.2,
+        "calories": 202
+    },
+    "scrambled egg": {
+        "name": "Scrambled Egg",
+        "name_ro": "Scrambled Egg",
+        "gi": 50,
+        "carbs_per_100g": 1.61,
+        "calories": 149
+    },
+    "rice gratin": {
+        "name": "Rice Gratin",
+        "name_ro": "Rice Gratin",
+        "gi": 50,
+        "carbs_per_100g": 7.24,
+        "calories": 120
+    },
+    "oatmeal": {
+        "name": "Oatmeal",
+        "name_ro": "Oatmeal",
+        "gi": 50,
+        "carbs_per_100g": 66.7,
+        "calories": 1580.0
+    },
+    "fried pork dumplings served in soup": {
+        "name": "Fried Pork Dumplings Served In Soup",
+        "name_ro": "Fried Pork Dumplings Served In Soup",
+        "gi": 50,
+        "carbs_per_100g": 14.05,
+        "calories": 192
+    },
+    "muffin": {
+        "name": "Muffin",
+        "name_ro": "Muffin",
+        "gi": 50,
+        "carbs_per_100g": 33.0,
+        "calories": 220
+    },
+    "popcorn": {
+        "name": "Popcorn",
+        "name_ro": "Popcorn",
+        "gi": 50,
+        "carbs_per_100g": 53.6,
+        "calories": 500
+    },
+    "chip butty": {
+        "name": "Chip Butty",
+        "name_ro": "Chip Butty",
+        "gi": 50,
+        "carbs_per_100g": 67.26,
+        "calories": 491
+    },
+    "cream puff": {
+        "name": "Cream Puff",
+        "name_ro": "Cream Puff",
+        "gi": 50,
+        "carbs_per_100g": 22.8,
+        "calories": 360
+    },
+    "doughnut": {
+        "name": "Doughnut",
+        "name_ro": "Doughnut",
+        "gi": 50,
+        "carbs_per_100g": 100,
+        "calories": 400
+    },
+    "parfait": {
+        "name": "Parfait",
+        "name_ro": "Parfait",
+        "gi": 50,
+        "carbs_per_100g": 20.2,
+        "calories": 101
+    },
+    "fried pork in scoop": {
+        "name": "Fried Pork In Scoop",
+        "name_ro": "Fried Pork In Scoop",
+        "gi": 50,
+        "carbs_per_100g": 27.62,
+        "calories": 179
+    },
+    "lamb kebabs": {
+        "name": "Lamb Kebabs",
+        "name_ro": "Lamb Kebabs",
+        "gi": 50,
+        "carbs_per_100g": 5.0,
+        "calories": 132
+    },
+    "dish consisting of stir-fried potato, eggplant and green pepper": {
+        "name": "Dish Consisting Of Stir-Fried Potato, Eggplant And Green Pepper",
+        "name_ro": "Dish Consisting Of Stir-Fried Potato, Eggplant And Green Pepper",
+        "gi": 50,
+        "carbs_per_100g": 22.33,
+        "calories": 218
+    },
+    "roast duck": {
+        "name": "Roast Duck",
+        "name_ro": "Roast Duck",
+        "gi": 50,
+        "carbs_per_100g": 0,
+        "calories": 336
+    },
+    "hot pot": {
+        "name": "Hot Pot",
+        "name_ro": "Hot Pot",
+        "gi": 50,
+        "carbs_per_100g": 0,
+        "calories": 251
+    },
+    "pork belly": {
+        "name": "Pork Belly",
+        "name_ro": "Pork Belly",
+        "gi": 50,
+        "carbs_per_100g": 0,
+        "calories": 404
+    },
+    "xiao long bao": {
+        "name": "Xiao Long Bao",
+        "name_ro": "Xiao Long Bao",
+        "gi": 50,
+        "carbs_per_100g": 39.78,
+        "calories": 273
+    },
+    "moon cake": {
+        "name": "Moon Cake",
+        "name_ro": "Moon Cake",
+        "gi": 50,
+        "carbs_per_100g": 61.6,
+        "calories": 324
+    },
+    "custard tart": {
+        "name": "Custard Tart",
+        "name_ro": "Custard Tart",
+        "gi": 50,
+        "carbs_per_100g": 10.97,
+        "calories": 97
+    },
+    "beef noodle soup": {
+        "name": "Beef Noodle Soup",
+        "name_ro": "Beef Noodle Soup",
+        "gi": 50,
+        "carbs_per_100g": 7.16,
+        "calories": 67.0
+    },
+    "pork cutlet": {
+        "name": "Pork Cutlet",
+        "name_ro": "Pork Cutlet",
+        "gi": 50,
+        "carbs_per_100g": 0.0,
+        "calories": 107
+    },
+    "minced pork rice": {
+        "name": "Minced Pork Rice",
+        "name_ro": "Minced Pork Rice",
+        "gi": 50,
+        "carbs_per_100g": 27.62,
+        "calories": 179
+    },
+    "fish ball soup": {
+        "name": "Fish Ball Soup",
+        "name_ro": "Fish Ball Soup",
+        "gi": 50,
+        "carbs_per_100g": 10.68,
+        "calories": 73
+    },
+    "oyster omelette": {
+        "name": "Oyster Omelette",
+        "name_ro": "Oyster Omelette",
+        "gi": 50,
+        "carbs_per_100g": 18.4,
+        "calories": 189
+    },
+    "glutinous oil rice": {
+        "name": "Glutinous Oil Rice",
+        "name_ro": "Glutinous Oil Rice",
+        "gi": 50,
+        "carbs_per_100g": 80.1,
+        "calories": 358
+    },
+    "trunip pudding": {
+        "name": "Trunip Pudding",
+        "name_ro": "Trunip Pudding",
+        "gi": 50,
+        "carbs_per_100g": 28,
+        "calories": 160
+    },
+    "stinky tofu": {
+        "name": "Stinky Tofu",
+        "name_ro": "Stinky Tofu",
+        "gi": 50,
+        "carbs_per_100g": 16.0,
+        "calories": 94.0
+    },
+    "lemon fig jelly": {
+        "name": "Lemon Fig Jelly",
+        "name_ro": "Lemon Fig Jelly",
+        "gi": 50,
+        "carbs_per_100g": 19.36,
+        "calories": 76
+    },
+    "khao soi": {
+        "name": "Khao Soi",
+        "name_ro": "Khao Soi",
+        "gi": 50,
+        "carbs_per_100g": 53.15,
+        "calories": 385
+    },
+    "sour prawn soup": {
+        "name": "Sour Prawn Soup",
+        "name_ro": "Sour Prawn Soup",
+        "gi": 50,
+        "carbs_per_100g": 4.35,
+        "calories": 39
+    },
+    "thai papaya salad": {
+        "name": "Thai Papaya Salad",
+        "name_ro": "Thai Papaya Salad",
+        "gi": 50,
+        "carbs_per_100g": 10.8,
+        "calories": 43.0
+    },
+    "boned, sliced hainan-style chicken with marinated rice": {
+        "name": "Boned, Sliced Hainan-Style Chicken With Marinated Rice",
+        "name_ro": "Boned, Sliced Hainan-Style Chicken With Marinated Rice",
+        "gi": 50,
+        "carbs_per_100g": 16.47,
+        "calories": 151
+    },
+    "hot and sour, fish and vegetable ragout": {
+        "name": "Hot And Sour, Fish And Vegetable Ragout",
+        "name_ro": "Hot And Sour, Fish And Vegetable Ragout",
+        "gi": 50,
+        "carbs_per_100g": 4.53,
+        "calories": 177
+    },
+    "stir-fried mixed vegetables": {
+        "name": "Stir-Fried Mixed Vegetables",
+        "name_ro": "Stir-Fried Mixed Vegetables",
+        "gi": 50,
+        "carbs_per_100g": 4.44,
+        "calories": 102
+    },
+    "beef in oyster sauce": {
+        "name": "Beef In Oyster Sauce",
+        "name_ro": "Beef In Oyster Sauce",
+        "gi": 50,
+        "carbs_per_100g": 10.92,
+        "calories": 51
+    },
+    "pork satay": {
+        "name": "Pork Satay",
+        "name_ro": "Pork Satay",
+        "gi": 50,
+        "carbs_per_100g": 24.0,
+        "calories": 240
+    },
+    "sandwiches": {
+        "name": "Sandwiches",
+        "name_ro": "Sandwiches",
+        "gi": 50,
+        "carbs_per_100g": 31.0,
+        "calories": 292
+    },
+    "spicy chicken salad": {
+        "name": "Spicy Chicken Salad",
+        "name_ro": "Spicy Chicken Salad",
+        "gi": 50,
+        "carbs_per_100g": 7.41,
+        "calories": 200
+    },
+    "noodles with fish curry": {
+        "name": "Noodles With Fish Curry",
+        "name_ro": "Noodles With Fish Curry",
+        "gi": 50,
+        "carbs_per_100g": 6.65,
+        "calories": 93
+    },
+    "pork sticky noodles": {
+        "name": "Pork Sticky Noodles",
+        "name_ro": "Pork Sticky Noodles",
+        "gi": 50,
+        "carbs_per_100g": 11.17,
+        "calories": 143
+    },
+    "pork with lemon": {
+        "name": "Pork With Lemon",
+        "name_ro": "Pork With Lemon",
+        "gi": 50,
+        "carbs_per_100g": 1.79,
+        "calories": 118
+    },
+    "stewed pork leg": {
+        "name": "Stewed Pork Leg",
+        "name_ro": "Stewed Pork Leg",
+        "gi": 50,
+        "carbs_per_100g": 6.29,
+        "calories": 109
+    },
+    "charcoal-boiled pork neck": {
+        "name": "Charcoal-Boiled Pork Neck",
+        "name_ro": "Charcoal-Boiled Pork Neck",
+        "gi": 50,
+        "carbs_per_100g": 0,
+        "calories": 161
+    },
+    "fried mussel pancakes": {
+        "name": "Fried Mussel Pancakes",
+        "name_ro": "Fried Mussel Pancakes",
+        "gi": 50,
+        "carbs_per_100g": 4.67,
+        "calories": 109
+    },
+    "deep fried chicken wing": {
+        "name": "Deep Fried Chicken Wing",
+        "name_ro": "Deep Fried Chicken Wing",
+        "gi": 50,
+        "carbs_per_100g": 5.96,
+        "calories": 289
+    },
+    "barbecued red pork in sauce with rice": {
+        "name": "Barbecued Red Pork In Sauce With Rice",
+        "name_ro": "Barbecued Red Pork In Sauce With Rice",
+        "gi": 50,
+        "carbs_per_100g": 12.23,
+        "calories": 226
+    },
+    "rice with roast duck": {
+        "name": "Rice With Roast Duck",
+        "name_ro": "Rice With Roast Duck",
+        "gi": 50,
+        "carbs_per_100g": 0,
+        "calories": 336
+    },
+    "eels on rice": {
+        "name": "Eels On Rice",
+        "name_ro": "Eels On Rice",
+        "gi": 50,
+        "carbs_per_100g": 7.79,
+        "calories": 273
+    },
+    "udon noodle": {
+        "name": "Udon Noodle",
+        "name_ro": "Udon Noodle",
+        "gi": 50,
+        "carbs_per_100g": 40.7,
+        "calories": 221
+    },
+    "rice crispy pork": {
+        "name": "Rice Crispy Pork",
+        "name_ro": "Rice Crispy Pork",
+        "gi": 50,
+        "carbs_per_100g": 27.62,
+        "calories": 179
+    },
+    "wonton soup": {
+        "name": "Wonton Soup",
+        "name_ro": "Wonton Soup",
+        "gi": 50,
+        "carbs_per_100g": 2.95,
+        "calories": 33
+    },
+    "chicken rice curry with coconut": {
+        "name": "Chicken Rice Curry With Coconut",
+        "name_ro": "Chicken Rice Curry With Coconut",
+        "gi": 50,
+        "carbs_per_100g": 15.12,
+        "calories": 116
+    },
+    "crispy noodles": {
+        "name": "Crispy Noodles",
+        "name_ro": "Crispy Noodles",
+        "gi": 50,
+        "carbs_per_100g": 8.11,
+        "calories": 116
+    },
+    "egg noodle in chicken yellow curry": {
+        "name": "Egg Noodle In Chicken Yellow Curry",
+        "name_ro": "Egg Noodle In Chicken Yellow Curry",
+        "gi": 50,
+        "carbs_per_100g": 6.54,
+        "calories": 107
+    },
+    "coconut milk soup": {
+        "name": "Coconut Milk Soup",
+        "name_ro": "Coconut Milk Soup",
+        "gi": 50,
+        "carbs_per_100g": 2.92,
+        "calories": 31
+    },
+    "hue beef rice vermicelli soup": {
+        "name": "Hue Beef Rice Vermicelli Soup",
+        "name_ro": "Hue Beef Rice Vermicelli Soup",
+        "gi": 50,
+        "carbs_per_100g": 76.0,
+        "calories": 359
+    },
+    "vermicelli noodles with snails": {
+        "name": "Vermicelli Noodles With Snails",
+        "name_ro": "Vermicelli Noodles With Snails",
+        "gi": 50,
+        "carbs_per_100g": 2.0,
+        "calories": 90.0
+    },
+    "fried spring rolls": {
+        "name": "Fried Spring Rolls",
+        "name_ro": "Fried Spring Rolls",
+        "gi": 50,
+        "carbs_per_100g": 17.23,
+        "calories": 112
+    },
+    "tempura udon": {
+        "name": "Tempura Udon",
+        "name_ro": "Tempura Udon",
+        "gi": 50,
+        "carbs_per_100g": 67.5,
+        "calories": 421
+    },
+    "steamed rice roll": {
+        "name": "Steamed Rice Roll",
+        "name_ro": "Steamed Rice Roll",
+        "gi": 50,
+        "carbs_per_100g": 33.9,
+        "calories": 151
+    },
+    "shrimp patties": {
+        "name": "Shrimp Patties",
+        "name_ro": "Shrimp Patties",
+        "gi": 50,
+        "carbs_per_100g": 5.26,
+        "calories": 218
+    },
+    "ball shaped bun with pork": {
+        "name": "Ball Shaped Bun With Pork",
+        "name_ro": "Ball Shaped Bun With Pork",
+        "gi": 50,
+        "carbs_per_100g": 23.3,
+        "calories": 238
+    },
+    "coconut milk-flavored crepes with shrimp and beef": {
+        "name": "Coconut Milk-Flavored Crepes With Shrimp And Beef",
+        "name_ro": "Coconut Milk-Flavored Crepes With Shrimp And Beef",
+        "gi": 50,
+        "carbs_per_100g": 22.02,
+        "calories": 224
+    },
+    "small steamed savory rice pancake": {
+        "name": "Small Steamed Savory Rice Pancake",
+        "name_ro": "Small Steamed Savory Rice Pancake",
+        "gi": 50,
+        "carbs_per_100g": 33.9,
+        "calories": 151
+    },
+    "glutinous rice balls": {
+        "name": "Glutinous Rice Balls",
+        "name_ro": "Glutinous Rice Balls",
+        "gi": 50,
+        "carbs_per_100g": 80.1,
+        "calories": 358
+    },
+    "loco moco": {
+        "name": "Loco Moco",
+        "name_ro": "Loco Moco",
+        "gi": 50,
+        "carbs_per_100g": 5.67,
+        "calories": 153
+    },
+    "haupia": {
+        "name": "Haupia",
+        "name_ro": "Haupia",
+        "gi": 50,
+        "carbs_per_100g": 23.52,
+        "calories": 274
+    },
+    "malasada": {
+        "name": "Malasada",
+        "name_ro": "Malasada",
+        "gi": 50,
+        "carbs_per_100g": 53.69,
+        "calories": 417
+    },
+    "soba noodle": {
+        "name": "Soba Noodle",
+        "name_ro": "Soba Noodle",
+        "gi": 50,
+        "carbs_per_100g": 21.4,
+        "calories": 99.0
+    },
+    "spam musubi": {
+        "name": "Spam Musubi",
+        "name_ro": "Spam Musubi",
+        "gi": 50,
+        "carbs_per_100g": 41.9,
+        "calories": 216
+    },
+    "oxtail soup": {
+        "name": "Oxtail Soup",
+        "name_ro": "Oxtail Soup",
+        "gi": 50,
+        "carbs_per_100g": 0,
+        "calories": 257
+    },
+    "adobo": {
+        "name": "Adobo",
+        "name_ro": "Adobo",
+        "gi": 50,
+        "carbs_per_100g": 47.1,
+        "calories": 588
+    },
+    "lumpia": {
+        "name": "Lumpia",
+        "name_ro": "Lumpia",
+        "gi": 50,
+        "carbs_per_100g": 15.4,
+        "calories": 132
+    },
+    "brownie": {
+        "name": "Brownie",
+        "name_ro": "Brownie",
+        "gi": 50,
+        "carbs_per_100g": 59.5,
+        "calories": 324
+    },
+    "churro": {
+        "name": "Churro",
+        "name_ro": "Churro",
+        "gi": 50,
+        "carbs_per_100g": 48.87,
+        "calories": 419
+    },
+    "jambalaya": {
+        "name": "Jambalaya",
+        "name_ro": "Jambalaya",
+        "gi": 50,
+        "carbs_per_100g": 77.2,
+        "calories": 333
+    },
+    "nasi goreng": {
+        "name": "Nasi Goreng",
+        "name_ro": "Nasi Goreng",
+        "gi": 50,
+        "carbs_per_100g": 20.0,
+        "calories": 150
+    },
+    "ayam goreng": {
+        "name": "Ayam Goreng",
+        "name_ro": "Ayam Goreng",
+        "gi": 50,
+        "carbs_per_100g": 20.0,
+        "calories": 150
+    },
+    "ayam bakar": {
+        "name": "Ayam Bakar",
+        "name_ro": "Ayam Bakar",
+        "gi": 50,
+        "carbs_per_100g": 1.79,
+        "calories": 196
+    },
+    "ramen noodle": {
+        "name": "Ramen Noodle",
+        "name_ro": "Ramen Noodle",
+        "gi": 50,
+        "carbs_per_100g": 9.04,
+        "calories": 66
+    },
+    "bubur ayam": {
+        "name": "Bubur Ayam",
+        "name_ro": "Bubur Ayam",
+        "gi": 50,
+        "carbs_per_100g": 1.79,
+        "calories": 196
+    },
+    "laksa": {
+        "name": "Laksa",
+        "name_ro": "Laksa",
+        "gi": 50,
+        "carbs_per_100g": 42.1,
+        "calories": 289
+    },
+    "mie ayam": {
+        "name": "Mie Ayam",
+        "name_ro": "Mie Ayam",
+        "gi": 50,
+        "carbs_per_100g": 15.1,
+        "calories": 77.0
+    },
+    "mie goreng": {
+        "name": "Mie Goreng",
+        "name_ro": "Mie Goreng",
+        "gi": 50,
+        "carbs_per_100g": 15.1,
+        "calories": 77.0
+    },
+    "nasi campur": {
+        "name": "Nasi Campur",
+        "name_ro": "Nasi Campur",
+        "gi": 50,
+        "carbs_per_100g": 20.0,
+        "calories": 150
+    },
+    "nasi padang": {
+        "name": "Nasi Padang",
+        "name_ro": "Nasi Padang",
+        "gi": 50,
+        "carbs_per_100g": 20.0,
+        "calories": 150
+    },
+    "nasi uduk": {
+        "name": "Nasi Uduk",
+        "name_ro": "Nasi Uduk",
+        "gi": 50,
+        "carbs_per_100g": 20.0,
+        "calories": 150
+    },
+    "babi guling": {
+        "name": "Babi Guling",
+        "name_ro": "Babi Guling",
+        "gi": 50,
+        "carbs_per_100g": 0,
+        "calories": 0
+    },
+    "kaya toast": {
+        "name": "Kaya Toast",
+        "name_ro": "Kaya Toast",
+        "gi": 50,
+        "carbs_per_100g": 76.6,
+        "calories": 390
+    },
+    "beef noodle": {
+        "name": "Beef Noodle",
+        "name_ro": "Beef Noodle",
+        "gi": 50,
+        "carbs_per_100g": 16.24,
+        "calories": 189
+    },
+    "bak kut teh": {
+        "name": "Bak Kut Teh",
+        "name_ro": "Bak Kut Teh",
+        "gi": 50,
+        "carbs_per_100g": 53.6,
+        "calories": 250
+    },
+    "curry puff": {
+        "name": "Curry Puff",
+        "name_ro": "Curry Puff",
+        "gi": 50,
+        "carbs_per_100g": 6.53,
+        "calories": 113
+    },
+    "chow mein": {
+        "name": "Chow Mein",
+        "name_ro": "Chow Mein",
+        "gi": 50,
+        "carbs_per_100g": 51.9,
+        "calories": 521
+    },
+    "zha jiang mian": {
+        "name": "Zha Jiang Mian",
+        "name_ro": "Zha Jiang Mian",
+        "gi": 50,
+        "carbs_per_100g": 3.0,
+        "calories": 33.0
+    },
+    "kung pao chicken": {
+        "name": "Kung Pao Chicken",
+        "name_ro": "Kung Pao Chicken",
+        "gi": 50,
+        "carbs_per_100g": 6.87,
+        "calories": 129
+    },
+    "crullers": {
+        "name": "Crullers",
+        "name_ro": "Crullers",
+        "gi": 50,
+        "carbs_per_100g": 59.5,
+        "calories": 412
+    },
+    "eggplant with garlic sauce": {
+        "name": "Eggplant With Garlic Sauce",
+        "name_ro": "Eggplant With Garlic Sauce",
+        "gi": 50,
+        "carbs_per_100g": 6.34,
+        "calories": 90
+    },
+    "three cup chicken": {
+        "name": "Three Cup Chicken",
+        "name_ro": "Three Cup Chicken",
+        "gi": 50,
+        "carbs_per_100g": 55.4,
+        "calories": 515
+    },
+    "bean curd family style": {
+        "name": "Bean Curd Family Style",
+        "name_ro": "Bean Curd Family Style",
+        "gi": 50,
+        "carbs_per_100g": 4.57,
+        "calories": 157
+    },
+    "salt & pepper fried shrimp with shell": {
+        "name": "Salt & Pepper Fried Shrimp With Shell",
+        "name_ro": "Salt & Pepper Fried Shrimp With Shell",
+        "gi": 50,
+        "carbs_per_100g": 0.0,
+        "calories": 0.0
+    },
+    "tensin noodle": {
+        "name": "Tensin Noodle",
+        "name_ro": "Tensin Noodle",
+        "gi": 50,
+        "carbs_per_100g": 25.01,
+        "calories": 137
+    },
+    "baked salmon": {
+        "name": "Baked Salmon",
+        "name_ro": "Baked Salmon",
+        "gi": 50,
+        "carbs_per_100g": 0.01,
+        "calories": 274
+    },
+    "braised pork meat ball with napa cabbage": {
+        "name": "Braised Pork Meat Ball With Napa Cabbage",
+        "name_ro": "Braised Pork Meat Ball With Napa Cabbage",
+        "gi": 50,
+        "carbs_per_100g": 2.23,
+        "calories": 12.0
+    },
+    "winter melon soup": {
+        "name": "Winter Melon Soup",
+        "name_ro": "Winter Melon Soup",
+        "gi": 50,
+        "carbs_per_100g": 2.95,
+        "calories": 36
+    },
+    "steamed spareribs": {
+        "name": "Steamed Spareribs",
+        "name_ro": "Steamed Spareribs",
+        "gi": 50,
+        "carbs_per_100g": 3.44,
+        "calories": 65
+    },
+    "chinese pumpkin pie": {
+        "name": "Chinese Pumpkin Pie",
+        "name_ro": "Chinese Pumpkin Pie",
+        "gi": 50,
+        "carbs_per_100g": 36.34,
+        "calories": 249
+    },
+    "eight treasure rice": {
+        "name": "Eight Treasure Rice",
+        "name_ro": "Eight Treasure Rice",
+        "gi": 50,
+        "carbs_per_100g": 79.5,
+        "calories": 432
+    },
+    "hot & sour soup": {
+        "name": "Hot & Sour Soup",
+        "name_ro": "Hot & Sour Soup",
+        "gi": 50,
+        "carbs_per_100g": 0.8,
+        "calories": 12
+    },
+    "fried noodle": {
+        "name": "Fried Noodle",
+        "name_ro": "Fried Noodle",
+        "gi": 50,
+        "carbs_per_100g": 14.06,
+        "calories": 234
+    },
+    "spaghetti": {
+        "name": "Spaghetti",
+        "name_ro": "Spaghetti",
+        "gi": 50,
+        "carbs_per_100g": 73.2,
+        "calories": 357
+    },
+    "japanese-style pancake": {
+        "name": "Japanese-Style Pancake",
+        "name_ro": "Japanese-Style Pancake",
+        "gi": 50,
+        "carbs_per_100g": 5.67,
+        "calories": 30.0
+    },
+    "pilaf": {
+        "name": "Pilaf",
+        "name_ro": "Pilaf",
+        "gi": 50,
+        "carbs_per_100g": 24.08,
+        "calories": 137
+    },
+    "gratin": {
+        "name": "Gratin",
+        "name_ro": "Gratin",
+        "gi": 50,
+        "carbs_per_100g": 74.3,
+        "calories": 314
+    },
+    "sauteed vegetables": {
+        "name": "Sauteed Vegetables",
+        "name_ro": "Sauteed Vegetables",
+        "gi": 50,
+        "carbs_per_100g": 0,
+        "calories": 265
+    },
+    "croquette": {
+        "name": "Croquette",
+        "name_ro": "Croquette",
+        "gi": 50,
+        "carbs_per_100g": 2.6,
+        "calories": 273
+    },
+    "grilled eggplant": {
+        "name": "Grilled Eggplant",
+        "name_ro": "Grilled Eggplant",
+        "gi": 50,
+        "carbs_per_100g": 7.14,
+        "calories": 286
+    },
+    "sauteed spinach": {
+        "name": "Sauteed Spinach",
+        "name_ro": "Sauteed Spinach",
+        "gi": 50,
+        "carbs_per_100g": 0,
+        "calories": 265
+    },
+    "vegetable tempura": {
+        "name": "Vegetable Tempura",
+        "name_ro": "Vegetable Tempura",
+        "gi": 50,
+        "carbs_per_100g": 20.45,
+        "calories": 239
+    },
+    "potage": {
+        "name": "Potage",
+        "name_ro": "Potage",
+        "gi": 50,
+        "carbs_per_100g": 50.0,
+        "calories": 567
+    },
+    "sausage": {
+        "name": "Sausage",
+        "name_ro": "Sausage",
+        "gi": 50,
+        "carbs_per_100g": 25.0,
+        "calories": 188
+    },
+    "oden": {
+        "name": "Oden",
+        "name_ro": "Oden",
+        "gi": 50,
+        "carbs_per_100g": 17.4,
+        "calories": 166
+    },
+    "chicken-'n'-egg on rice": {
+        "name": "Chicken-'N'-Egg On Rice",
+        "name_ro": "Chicken-'N'-Egg On Rice",
+        "gi": 50,
+        "carbs_per_100g": 15.12,
+        "calories": 116
+    },
+    "omelet": {
+        "name": "Omelet",
+        "name_ro": "Omelet",
+        "gi": 50,
+        "carbs_per_100g": 5.49,
+        "calories": 25
+    },
+    "jiaozi": {
+        "name": "Jiaozi",
+        "name_ro": "Jiaozi",
+        "gi": 50,
+        "carbs_per_100g": 25.0,
+        "calories": 285
+    },
+    "stew": {
+        "name": "Stew",
+        "name_ro": "Stew",
+        "gi": 50,
+        "carbs_per_100g": 6.29,
+        "calories": 84
+    },
+    "teriyaki grilled fish": {
+        "name": "Teriyaki Grilled Fish",
+        "name_ro": "Teriyaki Grilled Fish",
+        "gi": 50,
+        "carbs_per_100g": 21.21,
+        "calories": 180
+    },
+    "fried fish": {
+        "name": "Fried Fish",
+        "name_ro": "Fried Fish",
+        "gi": 50,
+        "carbs_per_100g": 11.72,
+        "calories": 238
+    },
+    "salmon meuniere": {
+        "name": "Salmon Meuniere",
+        "name_ro": "Salmon Meuniere",
+        "gi": 50,
+        "carbs_per_100g": 3.31,
+        "calories": 60
+    },
+    "grilled pacific saury": {
+        "name": "Grilled Pacific Saury",
+        "name_ro": "Grilled Pacific Saury",
+        "gi": 50,
+        "carbs_per_100g": 0.0,
+        "calories": 240
+    },
+    "pork cutlet on rice": {
+        "name": "Pork Cutlet On Rice",
+        "name_ro": "Pork Cutlet On Rice",
+        "gi": 50,
+        "carbs_per_100g": 27.62,
+        "calories": 179
+    },
+    "sukiyaki": {
+        "name": "Sukiyaki",
+        "name_ro": "Sukiyaki",
+        "gi": 50,
+        "carbs_per_100g": 26.7,
+        "calories": 133
+    },
+    "sweet and sour pork": {
+        "name": "Sweet And Sour Pork",
+        "name_ro": "Sweet And Sour Pork",
+        "gi": 50,
+        "carbs_per_100g": 25.5,
+        "calories": 260
+    },
+    "lightly roasted fish": {
+        "name": "Lightly Roasted Fish",
+        "name_ro": "Lightly Roasted Fish",
+        "gi": 50,
+        "carbs_per_100g": 21.15,
+        "calories": 584
+    },
+    "steamed egg hotchpotch": {
+        "name": "Steamed Egg Hotchpotch",
+        "name_ro": "Steamed Egg Hotchpotch",
+        "gi": 50,
+        "carbs_per_100g": 3.44,
+        "calories": 65
+    },
+    "tempura": {
+        "name": "Tempura",
+        "name_ro": "Tempura",
+        "gi": 50,
+        "carbs_per_100g": 20.45,
+        "calories": 239
+    },
+    "fried chicken": {
+        "name": "Fried Chicken",
+        "name_ro": "Fried Chicken",
+        "gi": 50,
+        "carbs_per_100g": 9.52,
+        "calories": 274
+    },
+    "sirloin cutlet": {
+        "name": "Sirloin Cutlet",
+        "name_ro": "Sirloin Cutlet",
+        "gi": 50,
+        "carbs_per_100g": 0.14,
+        "calories": 182
+    },
+    "boiled fish": {
+        "name": "Boiled Fish",
+        "name_ro": "Boiled Fish",
+        "gi": 50,
+        "carbs_per_100g": 21.26,
+        "calories": 318
+    },
+    "seasoned beef with potatoes": {
+        "name": "Seasoned Beef With Potatoes",
+        "name_ro": "Seasoned Beef With Potatoes",
+        "gi": 50,
+        "carbs_per_100g": 5.6,
+        "calories": 137
+    },
+    "beef curry": {
+        "name": "Beef Curry",
+        "name_ro": "Beef Curry",
+        "gi": 50,
+        "carbs_per_100g": 6.53,
+        "calories": 113
+    },
+    "hambarg steak": {
+        "name": "Hambarg Steak",
+        "name_ro": "Hambarg Steak",
+        "gi": 50,
+        "carbs_per_100g": 4.34,
+        "calories": 145
+    },
+    "dried fish": {
+        "name": "Dried Fish",
+        "name_ro": "Dried Fish",
+        "gi": 50,
+        "carbs_per_100g": 0.0,
+        "calories": 290
+    },
+    "ginger pork saute": {
+        "name": "Ginger Pork Saute",
+        "name_ro": "Ginger Pork Saute",
+        "gi": 50,
+        "carbs_per_100g": 0.0,
+        "calories": 171
+    },
+    "spicy chili-flavored tofu": {
+        "name": "Spicy Chili-Flavored Tofu",
+        "name_ro": "Spicy Chili-Flavored Tofu",
+        "gi": 50,
+        "carbs_per_100g": 16.0,
+        "calories": 94.0
+    },
+    "yakitori": {
+        "name": "Yakitori",
+        "name_ro": "Yakitori",
+        "gi": 50,
+        "carbs_per_100g": 30.0,
+        "calories": 150
+    },
+    "cabbage roll": {
+        "name": "Cabbage Roll",
+        "name_ro": "Cabbage Roll",
+        "gi": 50,
+        "carbs_per_100g": 8.83,
+        "calories": 114
+    },
+    "egg sunny-side up": {
+        "name": "Egg Sunny-Side Up",
+        "name_ro": "Egg Sunny-Side Up",
+        "gi": 50,
+        "carbs_per_100g": 5.45,
+        "calories": 164
+    },
+    "natto": {
+        "name": "Natto",
+        "name_ro": "Natto",
+        "gi": 50,
+        "carbs_per_100g": 12.7,
+        "calories": 211
+    },
+    "cold tofu": {
+        "name": "Cold Tofu",
+        "name_ro": "Cold Tofu",
+        "gi": 50,
+        "carbs_per_100g": 16.0,
+        "calories": 94.0
+    },
+    "egg roll": {
+        "name": "Egg Roll",
+        "name_ro": "Egg Roll",
+        "gi": 50,
+        "carbs_per_100g": 30.02,
+        "calories": 270
+    },
+    "chilled noodle": {
+        "name": "Chilled Noodle",
+        "name_ro": "Chilled Noodle",
+        "gi": 50,
+        "carbs_per_100g": 25.01,
+        "calories": 137
+    },
+    "stir-fried beef and peppers": {
+        "name": "Stir-Fried Beef And Peppers",
+        "name_ro": "Stir-Fried Beef And Peppers",
+        "gi": 50,
+        "carbs_per_100g": 4.44,
+        "calories": 102
+    },
+    "simmered pork": {
+        "name": "Simmered Pork",
+        "name_ro": "Simmered Pork",
+        "gi": 50,
+        "carbs_per_100g": 0.0,
+        "calories": 233
+    },
+    "boiled chicken and vegetables": {
+        "name": "Boiled Chicken And Vegetables",
+        "name_ro": "Boiled Chicken And Vegetables",
+        "gi": 50,
+        "carbs_per_100g": 0.2,
+        "calories": 215
+    },
+    "sashimi bowl": {
+        "name": "Sashimi Bowl",
+        "name_ro": "Sashimi Bowl",
+        "gi": 50,
+        "carbs_per_100g": 0.27,
+        "calories": 161
+    },
+    "sushi bowl": {
+        "name": "Sushi Bowl",
+        "name_ro": "Sushi Bowl",
+        "gi": 50,
+        "carbs_per_100g": 18.39,
+        "calories": 94
+    },
+    "fish-shaped pancake with bean jam": {
+        "name": "Fish-Shaped Pancake With Bean Jam",
+        "name_ro": "Fish-Shaped Pancake With Bean Jam",
+        "gi": 50,
+        "carbs_per_100g": 65.7,
+        "calories": 463
+    },
+    "shrimp with chill source": {
+        "name": "Shrimp With Chill Source",
+        "name_ro": "Shrimp With Chill Source",
+        "gi": 50,
+        "carbs_per_100g": 15.81,
+        "calories": 304
+    },
+    "chicken rice": {
+        "name": "Chicken Rice",
+        "name_ro": "Chicken Rice",
+        "gi": 50,
+        "carbs_per_100g": 15.12,
+        "calories": 116
+    },
+    "roast chicken": {
+        "name": "Roast Chicken",
+        "name_ro": "Roast Chicken",
+        "gi": 50,
+        "carbs_per_100g": 0,
+        "calories": 164
+    },
+    "steamed meat dumpling": {
+        "name": "Steamed Meat Dumpling",
+        "name_ro": "Steamed Meat Dumpling",
+        "gi": 50,
+        "carbs_per_100g": 20.49,
+        "calories": 125
+    },
+    "omelet with fried rice": {
+        "name": "Omelet With Fried Rice",
+        "name_ro": "Omelet With Fried Rice",
+        "gi": 50,
+        "carbs_per_100g": 2.26,
+        "calories": 128
+    },
+    "cutlet curry": {
+        "name": "Cutlet Curry",
+        "name_ro": "Cutlet Curry",
+        "gi": 50,
+        "carbs_per_100g": 6.53,
+        "calories": 113
+    },
+    "spaghetti meat sauce": {
+        "name": "Spaghetti Meat Sauce",
+        "name_ro": "Spaghetti Meat Sauce",
+        "gi": 50,
+        "carbs_per_100g": 6.54,
+        "calories": 90
+    },
+    "fried shrimp": {
+        "name": "Fried Shrimp",
+        "name_ro": "Fried Shrimp",
+        "gi": 50,
+        "carbs_per_100g": 12.41,
+        "calories": 218
+    },
+    "potato salad": {
+        "name": "Potato Salad",
+        "name_ro": "Potato Salad",
+        "gi": 50,
+        "carbs_per_100g": 15.0,
+        "calories": 171
+    },
+    "green salad": {
+        "name": "Green Salad",
+        "name_ro": "Green Salad",
+        "gi": 50,
+        "carbs_per_100g": 3.43,
+        "calories": 21
+    },
+    "macaroni salad": {
+        "name": "Macaroni Salad",
+        "name_ro": "Macaroni Salad",
+        "gi": 50,
+        "carbs_per_100g": 22.5,
+        "calories": 204
+    },
+    "japanese tofu and vegetable chowder": {
+        "name": "Japanese Tofu And Vegetable Chowder",
+        "name_ro": "Japanese Tofu And Vegetable Chowder",
+        "gi": 50,
+        "carbs_per_100g": 4.53,
+        "calories": 177
+    },
+    "pork miso soup": {
+        "name": "Pork Miso Soup",
+        "name_ro": "Pork Miso Soup",
+        "gi": 50,
+        "carbs_per_100g": 2.3,
+        "calories": 24
+    },
+    "chinese soup": {
+        "name": "Chinese Soup",
+        "name_ro": "Chinese Soup",
+        "gi": 50,
+        "carbs_per_100g": 5.25,
+        "calories": 32.0
+    },
+    "beef bowl": {
+        "name": "Beef Bowl",
+        "name_ro": "Beef Bowl",
+        "gi": 50,
+        "carbs_per_100g": 15.4,
+        "calories": 137
+    },
+    "kinpira-style sauteed burdock": {
+        "name": "Kinpira-Style Sauteed Burdock",
+        "name_ro": "Kinpira-Style Sauteed Burdock",
+        "gi": 50,
+        "carbs_per_100g": 18.06,
+        "calories": 100
+    },
+    "rice ball": {
+        "name": "Rice Ball",
+        "name_ro": "Rice Ball",
+        "gi": 50,
+        "carbs_per_100g": 4.84,
+        "calories": 441
+    },
+    "pizza toast": {
+        "name": "Pizza Toast",
+        "name_ro": "Pizza Toast",
+        "gi": 50,
+        "carbs_per_100g": 76.6,
+        "calories": 390
+    },
+    "dipping noodles": {
+        "name": "Dipping Noodles",
+        "name_ro": "Dipping Noodles",
+        "gi": 50,
+        "carbs_per_100g": 25.01,
+        "calories": 137
+    },
+    "mixed rice": {
+        "name": "Mixed Rice",
+        "name_ro": "Mixed Rice",
+        "gi": 50,
+        "carbs_per_100g": 76.4,
+        "calories": 363
+    },
+    "takoyaki": {
+        "name": "Takoyaki",
+        "name_ro": "Takoyaki",
+        "gi": 65,
+        "carbs_per_100g": 30.0,
+        "calories": 200
+    },
+    "jjigae": {
+        "name": "Jjigae",
+        "name_ro": "Jjigae",
+        "gi": 35,
+        "carbs_per_100g": 5.0,
+        "calories": 80
+    },
+    "kamameshi": {
+        "name": "Kamameshi",
+        "name_ro": "Kamameshi",
+        "gi": 65,
+        "carbs_per_100g": 28.0,
+        "calories": 150
+    },
+    "tanmen": {
+        "name": "Tanmen",
+        "name_ro": "Tanmen",
+        "gi": 55,
+        "carbs_per_100g": 18.0,
+        "calories": 110
+    },
+    "kushikatu": {
+        "name": "Kushikatu",
+        "name_ro": "Kushikatu",
+        "gi": 60,
+        "carbs_per_100g": 15.0,
+        "calories": 220
+    },
+    "samul": {
+        "name": "Samul",
+        "name_ro": "Samul",
+        "gi": 50,
+        "carbs_per_100g": 10.0,
+        "calories": 120
+    },
+    "zoni": {
+        "name": "Zoni",
+        "name_ro": "Zoni",
+        "gi": 70,
+        "carbs_per_100g": 22.0,
+        "calories": 130
+    },
+    "namero": {
+        "name": "Namero",
+        "name_ro": "Namero",
+        "gi": 0,
+        "carbs_per_100g": 2.0,
+        "calories": 150
+    },
+    "yudofu": {
+        "name": "Yudofu",
+        "name_ro": "Yudofu",
+        "gi": 35,
+        "carbs_per_100g": 2.0,
+        "calories": 55
+    },
+    "mozuku": {
+        "name": "Mozuku",
+        "name_ro": "Mozuku",
+        "gi": 15,
+        "carbs_per_100g": 1.5,
+        "calories": 10
+    },
+    "oshiruko": {
+        "name": "Oshiruko",
+        "name_ro": "Oshiruko",
+        "gi": 70,
+        "carbs_per_100g": 35.0,
+        "calories": 180
+    },
+    "laulau": {
+        "name": "Laulau",
+        "name_ro": "Laulau",
+        "gi": 0,
+        "carbs_per_100g": 3.0,
+        "calories": 180
+    },
+    "gulai": {
+        "name": "Gulai",
+        "name_ro": "Gulai",
+        "gi": 45,
+        "carbs_per_100g": 8.0,
+        "calories": 160
+    },
+    "ganmodoki": {
+        "name": "Ganmodoki",
+        "name_ro": "Ganmodoki",
+        "gi": 35,
+        "carbs_per_100g": 5.0,
+        "calories": 140
+    },
+    "nanbanzuke": {
+        "name": "Nanbanzuke",
+        "name_ro": "Nanbanzuke",
+        "gi": 35,
+        "carbs_per_100g": 8.0,
+        "calories": 130
+    }
+}

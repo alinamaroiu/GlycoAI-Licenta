@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+    <meta charset="UTF-8">
+    <title>Prototip GI/GL - Food Recognition</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        #preview {
+            max-width: 300px;
+            max-height: 300px;
+            display: block;
+            margin-top: 10px;
+        }
+        #results, #saveMealSection {
+            margin-top: 20px;
+            padding: 10px;
+            border: 1px solid #ccc;
+        }
+        label {
+            display: inline-block;
+            width: 80px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Prototip monitorizare alimentație (GI/GL)</h1>
+
+    <h2>1. Recunoaștere aliment din imagine</h2>
+    <input type="file" id="imageInput" accept="image/*">
+    <button id="predictBtn">Prezice aliment</button>
+    <img id="preview" src="#" alt="Preview imagine" style="display:none;">
+
+    <div id="results">
+        <h3>Rezultat predicție</h3>
+        <p><b>Clasă:</b> <span id="foodClass"></span></p>
+        <p><b>Încredere:</b> <span id="confidence"></span></p>
+        <p><b>Nume RO:</b> <span id="nameRo"></span></p>
+        <p><b>GI:</b> <span id="gi"></span></p>
+        <p><b>Carbohidrați / 100g:</b> <span id="carbs100"></span></p>
+        <p><b>Calorii / 100g:</b> <span id="cal100"></span></p>
+        <p id="errorMsg" style="color:red;"></p>
+    </div>
+
+    <div id="saveMealSection" style="display:none;">
+        <h2>2. Salvează masa</h2>
+        <p>
+            <label>User ID:</label>
+            <input type="text" id="userIdInput" value="1">
+        </p>
+        <p>
+            <label>Grame:</label>
+            <input type="number" id="gramsInput" value="100">
+        </p>
+        <button id="saveMealBtn">Salvează masa</button>
+
+        <div id="saveMealResult"></div>
+    </div>
+
+    <script>
+        const API_BASE = "http://127.0.0.1:5000";
+
+        const imageInput = document.getElementById("imageInput");
+        const previewImg = document.getElementById("preview");
+        const predictBtn = document.getElementById("predictBtn");
+
+        const foodClassSpan = document.getElementById("foodClass");
+        const confidenceSpan = document.getElementById("confidence");
+        const nameRoSpan = document.getElementById("nameRo");
+        const giSpan = document.getElementById("gi");
+        const carbs100Span = document.getElementById("carbs100");
+        const cal100Span = document.getElementById("cal100");
+        const errorMsg = document.getElementById("errorMsg");
+
+        const saveSection = document.getElementById("saveMealSection");
+        const userIdInput = document.getElementById("userIdInput");
+        const gramsInput = document.getElementById("gramsInput");
+        const saveMealBtn = document.getElementById("saveMealBtn");
+        const saveMealResult = document.getElementById("saveMealResult");
+
+        let lastPredictedClass = null;
+
+        // arată preview-ul imaginii
+        imageInput.addEventListener("change", function () {
+            const file = this.files[0];
+            if (!file) {
+                previewImg.style.display = "none";
+                return;
+            }
+            const reader = new FileReader();
+            reader.onload = e => {
+                previewImg.src = e.target.result;
+                previewImg.style.display = "block";
+            };
+            reader.readAsDataURL(file);
+        });
+
+        // trimite imaginea la /api/predict
+        predictBtn.addEventListener("click", async function () {
+            const file = imageInput.files[0];
+            if (!file) {
+                alert("Alege mai întâi o imagine!");
+                return;
+            }
+
+            const formData = new FormData();
+            formData.append("image", file);
+
+            try {
+                errorMsg.textContent = "";
+                saveMealResult.textContent = "";
+                saveSection.style.display = "none";
+
+                const resp = await fetch(API_BASE + "/api/predict", {
+                    method: "POST",
+                    body: formData
+                });
+                const data = await resp.json();
+
+                if (!data.success) {
+                    errorMsg.textContent = data.error || "Eroare la predicție.";
+                    return;
+                }
+
+                const pred = data.prediction;
+                lastPredictedClass = pred.food_class;
+
+                foodClassSpan.textContent = pred.food_class;
+                confidenceSpan.textContent = (pred.confidence * 100).toFixed(1) + "%";
+
+                if (pred.nutrition) {
+                    nameRoSpan.textContent = pred.nutrition.name_ro;
+                    giSpan.textContent = pred.nutrition.gi;
+                    carbs100Span.textContent = pred.nutrition.carbs_per_100g;
+                    cal100Span.textContent = pred.nutrition.calories_per_100g;
+                } else {
+                    nameRoSpan.textContent = "-";
+                    giSpan.textContent = "-";
+                    carbs100Span.textContent = "-";
+                    cal100Span.textContent = "-";
+                }
+
+                // dacă avem o clasă validă, permitem salvarea mesei
+                if (lastPredictedClass) {
+                    saveSection.style.display = "block";
+                }
+            } catch (err) {
+                console.error(err);
+                errorMsg.textContent = "Eroare de rețea sau server.";
+            }
+        });
+
+        // salvează masa la /api/meal
+        saveMealBtn.addEventListener("click", async function () {
+            if (!lastPredictedClass) {
+                alert("Nu există o predicție încă.");
+                return;
+            }
+
+            const userId = userIdInput.value || "1";
+            const grams = parseFloat(gramsInput.value || "100");
+
+            const body = {
+                user_id: userId,
+                food_class: lastPredictedClass,
+                grams: grams
+            };
+
+            try {
+                const resp = await fetch(API_BASE + "/api/meal", {
+                    method: "POST",
+                    headers: {
+                        "Content-Type": "application/json"
+                    },
+                    body: JSON.stringify(body)
+                });
+                const data = await resp.json();
+
+                if (!data.success) {
+                    saveMealResult.innerHTML = "<span style='color:red;'>Eroare: " + (data.error || "nu s-a putut salva masa") + "</span>";
+                    return;
+                }
+
+                const meal = data.meal;
+                saveMealResult.innerHTML = `
+                    <p><b>Masă salvată!</b></p>
+                    <p>Clasă: ${meal.food_class}, grame: ${meal.grams}</p>
+                    <p>GI: ${meal.gi}, Carbs: ${meal.carbs} g, GL: ${meal.gl}, Calorii: ${meal.calories}</p>
+                    <p>Timestamp: ${meal.timestamp}</p>
+                `;
+            } catch (err) {
+                console.error(err);
+                saveMealResult.innerHTML = "<span style='color:red;'>Eroare de rețea.</span>";
+            }
+        });
+    </script>
+</body>
+</html>

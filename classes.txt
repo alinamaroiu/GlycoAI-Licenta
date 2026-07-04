@@ -1,0 +1,357 @@
+food101__apple_pie
+food101__baby_back_ribs
+food101__baklava
+food101__beef_carpaccio
+food101__beef_tartare
+food101__beet_salad
+food101__beignets
+food101__bibimbap
+food101__bread_pudding
+food101__breakfast_burrito
+food101__bruschetta
+food101__caesar_salad
+food101__cannoli
+food101__caprese_salad
+food101__carrot_cake
+food101__ceviche
+food101__cheese_plate
+food101__cheesecake
+food101__chicken_curry
+food101__chicken_quesadilla
+food101__chicken_wings
+food101__chocolate_cake
+food101__chocolate_mousse
+food101__churros
+food101__clam_chowder
+food101__club_sandwich
+food101__crab_cakes
+food101__creme_brulee
+food101__croque_madame
+food101__cup_cakes
+food101__deviled_eggs
+food101__donuts
+food101__dumplings
+food101__edamame
+food101__eggs_benedict
+food101__escargots
+food101__falafel
+food101__filet_mignon
+food101__fish_and_chips
+food101__foie_gras
+food101__french_fries
+food101__french_onion_soup
+food101__french_toast
+food101__fried_calamari
+food101__fried_rice
+food101__frozen_yogurt
+food101__garlic_bread
+food101__gnocchi
+food101__greek_salad
+food101__grilled_cheese_sandwich
+food101__grilled_salmon
+food101__guacamole
+food101__gyoza
+food101__hamburger
+food101__hot_and_sour_soup
+food101__hot_dog
+food101__huevos_rancheros
+food101__hummus
+food101__ice_cream
+food101__lasagna
+food101__lobster_bisque
+food101__lobster_roll_sandwich
+food101__macaroni_and_cheese
+food101__macarons
+food101__miso_soup
+food101__mussels
+food101__nachos
+food101__omelette
+food101__onion_rings
+food101__oysters
+food101__pad_thai
+food101__paella
+food101__pancakes
+food101__panna_cotta
+food101__peking_duck
+food101__pho
+food101__pizza
+food101__pork_chop
+food101__poutine
+food101__prime_rib
+food101__pulled_pork_sandwich
+food101__ramen
+food101__ravioli
+food101__red_velvet_cake
+food101__risotto
+food101__samosa
+food101__sashimi
+food101__scallops
+food101__seaweed_salad
+food101__shrimp_and_grits
+food101__spaghetti_bolognese
+food101__spaghetti_carbonara
+food101__spring_rolls
+food101__steak
+food101__strawberry_shortcake
+food101__sushi
+food101__tacos
+food101__takoyaki
+food101__tiramisu
+food101__tuna_tartare
+food101__waffles
+uec__rice
+uec__tempura bowl
+uec__goya chanpuru
+uec__green curry
+uec__okinawa soba
+uec__mango pudding
+uec__almond jelly
+uec__jjigae
+uec__dak galbi
+uec__dry curry
+uec__kamameshi
+uec__rice vermicelli
+uec__bibimbap
+uec__paella
+uec__tanmen
+uec__kushikatu
+uec__yellow curry
+uec__pancake
+uec__champon
+uec__crape
+uec__tiramisu
+uec__waffle
+uec__rare cheese cake
+uec__toast
+uec__shortcake
+uec__chop suey
+uec__twice cooked pork
+uec__mushroom risotto
+uec__samul
+uec__zoni
+uec__french toast
+uec__fine white noodles
+uec__minestrone
+uec__pot au feu
+uec__croissant
+uec__chicken nugget
+uec__namero
+uec__french bread
+uec__rice gruel
+uec__broiled eel bowl
+uec__clear soup
+uec__yudofu
+uec__mozuku
+uec__inarizushi
+uec__pork loin cutlet
+uec__roll bread
+uec__pork fillet cutlet
+uec__chicken cutlet
+uec__ham cutlet
+uec__minced meat cutlet
+uec__thinly sliced raw horsemeat
+uec__bagel
+uec__scone
+uec__tortilla
+uec__tacos
+uec__nachos
+uec__raisin bread
+uec__meat loaf
+uec__scrambled egg
+uec__rice gratin
+uec__lasagna
+uec__Caesar salad
+uec__oatmeal
+uec__fried pork dumplings served in soup
+uec__oshiruko
+uec__muffin
+uec__popcorn
+uec__chip butty
+uec__cream puff
+uec__doughnut
+uec__apple pie
+uec__parfait
+uec__fried pork in scoop
+uec__lamb kebabs
+uec__dish consisting of stir-fried potato, eggplant and green pepper
+uec__roast duck
+uec__hot pot
+uec__pork belly
+uec__hamburger
+uec__xiao long bao
+uec__moon cake
+uec__custard tart
+uec__beef noodle soup
+uec__pork cutlet
+uec__minced pork rice
+uec__fish ball soup
+uec__oyster omelette
+uec__glutinous oil rice
+uec__trunip pudding
+uec__pizza
+uec__stinky tofu
+uec__lemon fig jelly
+uec__khao soi
+uec__Sour prawn soup
+uec__Thai papaya salad
+uec__boned, sliced Hainan-style chicken with marinated rice
+uec__hot and sour, fish and vegetable ragout
+uec__stir-fried mixed vegetables
+uec__beef in oyster sauce
+uec__pork satay
+uec__sandwiches
+uec__spicy chicken salad
+uec__noodles with fish curry
+uec__Pork Sticky Noodles
+uec__Pork with lemon
+uec__stewed pork leg
+uec__charcoal-boiled pork neck
+uec__fried mussel pancakes
+uec__Deep Fried Chicken Wing
+uec__Barbecued red pork in sauce with rice
+uec__Rice with roast duck
+uec__eels on rice
+uec__udon noodle
+uec__Rice crispy pork
+uec__Wonton soup
+uec__Chicken Rice Curry With Coconut
+uec__Crispy Noodles
+uec__Egg Noodle In Chicken Yellow Curry
+uec__coconut milk soup
+uec__pho
+uec__Hue beef rice vermicelli soup
+uec__Vermicelli noodles with snails
+uec__Fried spring rolls
+uec__tempura udon
+uec__Steamed rice roll
+uec__Shrimp patties
+uec__ball shaped bun with pork
+uec__Coconut milk-flavored crepes with shrimp and beef
+uec__Small steamed savory rice pancake
+uec__Glutinous Rice Balls
+uec__loco moco
+uec__haupia
+uec__malasada
+uec__laulau
+uec__soba noodle
+uec__spam musubi
+uec__oxtail soup
+uec__adobo
+uec__lumpia
+uec__brownie
+uec__churro
+uec__jambalaya
+uec__nasi goreng
+uec__ayam goreng
+uec__ayam bakar
+uec__ramen noodle
+uec__bubur ayam
+uec__gulai
+uec__laksa
+uec__mie ayam
+uec__mie goreng
+uec__nasi campur
+uec__nasi padang
+uec__nasi uduk
+uec__babi guling
+uec__kaya toast
+uec__beef noodle
+uec__bak kut teh
+uec__curry puff
+uec__chow mein
+uec__zha jiang mian
+uec__kung pao chicken
+uec__crullers
+uec__eggplant with garlic sauce
+uec__three cup chicken
+uec__bean curd family style
+uec__salt & pepper fried shrimp with shell
+uec__tensin noodle
+uec__baked salmon
+uec__braised pork meat ball with napa cabbage
+uec__winter melon soup
+uec__steamed spareribs
+uec__chinese pumpkin pie
+uec__eight treasure rice
+uec__hot & sour soup
+uec__fried noodle
+uec__spaghetti
+uec__Japanese-style pancake
+uec__takoyaki
+uec__pilaf
+uec__gratin
+uec__sauteed vegetables
+uec__croquette
+uec__grilled eggplant
+uec__sauteed spinach
+uec__vegetable tempura
+uec__miso soup
+uec__potage
+uec__sausage
+uec__oden
+uec__chicken-'n'-egg on rice
+uec__omelet
+uec__ganmodoki
+uec__jiaozi
+uec__stew
+uec__teriyaki grilled fish
+uec__fried fish
+uec__grilled salmon
+uec__salmon meuniere
+uec__sashimi
+uec__grilled pacific saury
+uec__pork cutlet on rice
+uec__sukiyaki
+uec__sweet and sour pork
+uec__lightly roasted fish
+uec__steamed egg hotchpotch
+uec__tempura
+uec__fried chicken
+uec__sirloin cutlet
+uec__nanbanzuke
+uec__boiled fish
+uec__seasoned beef with potatoes
+uec__beef curry
+uec__hambarg steak
+uec__steak
+uec__dried fish
+uec__ginger pork saute
+uec__spicy chili-flavored tofu
+uec__yakitori
+uec__cabbage roll
+uec__omelet
+uec__egg sunny-side up
+uec__natto
+uec__sushi
+uec__cold tofu
+uec__egg roll
+uec__chilled noodle
+uec__stir-fried beef and peppers
+uec__simmered pork
+uec__boiled chicken and vegetables
+uec__sashimi bowl
+uec__sushi bowl
+uec__fish-shaped pancake with bean jam
+uec__shrimp with chill source
+uec__chicken rice
+uec__roast chicken
+uec__steamed meat dumpling
+uec__omelet with fried rice
+uec__cutlet curry
+uec__spaghetti meat sauce
+uec__fried shrimp
+uec__potato salad
+uec__green salad
+uec__macaroni salad
+uec__Japanese tofu and vegetable chowder
+uec__fried rice
+uec__pork miso soup
+uec__chinese soup
+uec__beef bowl
+uec__kinpira-style sauteed burdock
+uec__rice ball
+uec__pizza toast
+uec__dipping noodles
+uec__hot dog
+uec__french fries
+uec__mixed rice
